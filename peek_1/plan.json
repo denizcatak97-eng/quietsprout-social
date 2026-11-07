@@ -1,0 +1,181 @@
+{
+  "welle": "PEEK_1 (SOC12 Blick ins Buch 2.0)",
+  "created": "2026-11-07",
+  "timezone": "Europe/Berlin (MEZ, +01:00)",
+  "channels": [
+    "tiktok",
+    "instagram"
+  ],
+  "items": [
+    {
+      "dueAt": "2026-11-08T16:00:00+01:00",
+      "file": "01_2026-11-08_1600_book-peek2_xmas-dot-to-dot.mp4",
+      "caption": "A real page from our Christmas Dot-to-Dot for Kids Ages 4-8, connecting itself dot by dot. Did you guess it before the last dot? A quiet little gift for a kid who loves connecting dots.\nFind it on Amazon: search Quiet Sprout Studio.\n\n#dottodot #connectthedots #christmasactivities #kidsactivities #giftideas",
+      "book": "NEW-XM-DOTS | Christmas Dot-to-Dot for Kids Ages 4-8",
+      "page_source": {
+        "book_id": "NEW-XM-DOTS",
+        "package": "UPLOAD_2026-11-04_NEW-XM-DOTS.zip",
+        "interior_pdf_sha256": "aa77ded7180ffe79ee5a3197686b3ab1871c02c64c1b0afcbf6e9f30d8d3135a",
+        "cover_pdf_sha256": "3e0549fd7191754d1e0ff11ad8067ba21df739ca37a2ec705d8a6629087f05ae",
+        "page": 22,
+        "flip_pages": [
+          5,
+          13,
+          21
+        ],
+        "cover": "cover.pdf, front (right half, without spine/bleed)",
+        "solution_page": 46,
+        "puzzle": 19,
+        "motif": "Toy Train"
+      },
+      "format": "book_peek2_dots",
+      "hook": "Guess the picture before the last dot",
+      "duration_s": 9.0
+    },
+    {
+      "dueAt": "2026-11-09T16:00:00+01:00",
+      "file": "02_2026-11-09_1600_book-peek2_xmas-activity-book.mp4",
+      "caption": "Christmas Star Maze No. 11, a real page from our Christmas Activity Book for Kids Ages 5-8, solving itself. Did you find the way before the line did? For a kid who loves mazes, dot-to-dots and word searches.\nFind it on Amazon: search Quiet Sprout Studio.\n\n#activitybook #christmasactivities #kidsactivities #mazes #giftideas",
+      "book": "NEW-XM-ACTIVITY | Christmas Activity Book for Kids Ages 5-8",
+      "page_source": {
+        "book_id": "NEW-XM-ACTIVITY",
+        "package": "UPLOAD_2026-10-26_NEW-XM-ACTIVITY.zip",
+        "interior_pdf_sha256": "14db9785f88652c6d690790e097c291740eb17887f174e75be94fb91a4c44a41",
+        "cover_pdf_sha256": "f75195b30e9872afa79796f4d9e71a37f097e2a0fb4b05a3c764a4596709c450",
+        "page": 14,
+        "flip_pages": [
+          10,
+          30,
+          45
+        ],
+        "cover": "cover.pdf, front (right half, without spine/bleed)",
+        "solution_page": 56,
+        "puzzle": 11,
+        "motif": "Christmas Star Maze #11 (Medium)"
+      },
+      "format": "book_peek2_maze",
+      "hook": "Find the way before the line does",
+      "duration_s": 9.0
+    },
+    {
+      "dueAt": "2026-11-10T16:00:00+01:00",
+      "file": "03_2026-11-10_1600_book-peek2_cozy-little-shops.mp4",
+      "caption": "A real page from our Cozy Little Shops Coloring Book, filling in with soft colors, shape by shape. Which color would you start with? Each picture is on its own page, for someone who loves little shops and slow evenings.\nFind it on Amazon: search Quiet Sprout Studio.\n\n#coloringbook #adultcoloring #coloringpage #cozyvibes #giftidea",
+      "book": "KDP-030 | Cozy Little Shops Coloring Book",
+      "page_source": {
+        "book_id": "KDP-030",
+        "package": "REVISION_PLZ_030_066.zip (interior.pdf); s15c.zip (cover.pdf); s15_02_KDP-030.zip (LISTING.md)",
+        "interior_pdf_sha256": "1dbc92ec5bcabb1701661809e964ab46d3c7bd8a86f4dc5ff43908d8463c4553",
+        "cover_pdf_sha256": "8ef13d7786a2d97e8fbf0a91b1aa9dc4927f91dace7fb500603b2696114e0972",
+        "page": 21,
+        "flip_pages": [
+          11,
+          43,
+          93
+        ],
+        "cover": "cover.pdf, front (right half, without spine/bleed)",
+        "motif": "Scene page 21"
+      },
+      "format": "book_peek2_color",
+      "hook": "Five seconds to fall for this page",
+      "duration_s": 9.0
+    },
+    {
+      "dueAt": "2026-11-11T16:00:00+01:00",
+      "file": "04_2026-11-11_1600_book-peek2_cozy-little-shops.mp4",
+      "caption": "Another real page from our Cozy Little Shops Coloring Book, colored in gentle tones. What would you color first? For someone who loves window displays, cafés and cozy corners.\nFind it on Amazon: search Quiet Sprout Studio.\n\n#coloringbook #adultcoloring #coloringpage #cozyvibes #giftidea",
+      "book": "KDP-030 | Cozy Little Shops Coloring Book",
+      "page_source": {
+        "book_id": "KDP-030",
+        "package": "REVISION_PLZ_030_066.zip (interior.pdf); s15c.zip (cover.pdf); s15_02_KDP-030.zip (LISTING.md)",
+        "interior_pdf_sha256": "1dbc92ec5bcabb1701661809e964ab46d3c7bd8a86f4dc5ff43908d8463c4553",
+        "cover_pdf_sha256": "8ef13d7786a2d97e8fbf0a91b1aa9dc4927f91dace7fb500603b2696114e0972",
+        "page": 91,
+        "flip_pages": [
+          27,
+          61,
+          99
+        ],
+        "cover": "cover.pdf, front (right half, without spine/bleed)",
+        "motif": "Scene page 91"
+      },
+      "format": "book_peek2_color",
+      "hook": "Which color would you pick?",
+      "duration_s": 9.0
+    },
+    {
+      "dueAt": "2026-11-12T16:00:00+01:00",
+      "file": "05_2026-11-12_1600_book-peek2_xmas-dot-to-dot.mp4",
+      "caption": "A real page from our Christmas Dot-to-Dot for Kids Ages 4-8. Name it before the line closes: how many dots did you need? For a kid who loves Christmas pictures.\nFind it on Amazon: search Quiet Sprout Studio.\n\n#dottodot #connectthedots #christmasactivities #kidsactivities #giftideas",
+      "book": "NEW-XM-DOTS | Christmas Dot-to-Dot for Kids Ages 4-8",
+      "page_source": {
+        "book_id": "NEW-XM-DOTS",
+        "package": "UPLOAD_2026-11-04_NEW-XM-DOTS.zip",
+        "interior_pdf_sha256": "aa77ded7180ffe79ee5a3197686b3ab1871c02c64c1b0afcbf6e9f30d8d3135a",
+        "cover_pdf_sha256": "3e0549fd7191754d1e0ff11ad8067ba21df739ca37a2ec705d8a6629087f05ae",
+        "page": 19,
+        "flip_pages": [
+          9,
+          16,
+          26
+        ],
+        "cover": "cover.pdf, front (right half, without spine/bleed)",
+        "solution_page": 43,
+        "puzzle": 16,
+        "motif": "Bell"
+      },
+      "format": "book_peek2_dots",
+      "hook": "Name it before the line closes",
+      "duration_s": 9.0
+    },
+    {
+      "dueAt": "2026-11-13T16:00:00+01:00",
+      "file": "06_2026-11-13_1600_book-peek2_xmas-activity-book.mp4",
+      "caption": "A real dot-to-dot page from our Christmas Activity Book for Kids Ages 5-8. What did you see first? For a kid who loves mazes, dot-to-dots and word searches.\nFind it on Amazon: search Quiet Sprout Studio.\n\n#dottodot #connectthedots #activitybook #christmasactivities #giftideas",
+      "book": "NEW-XM-ACTIVITY | Christmas Activity Book for Kids Ages 5-8",
+      "page_source": {
+        "book_id": "NEW-XM-ACTIVITY",
+        "package": "UPLOAD_2026-10-26_NEW-XM-ACTIVITY.zip",
+        "interior_pdf_sha256": "14db9785f88652c6d690790e097c291740eb17887f174e75be94fb91a4c44a41",
+        "cover_pdf_sha256": "f75195b30e9872afa79796f4d9e71a37f097e2a0fb4b05a3c764a4596709c450",
+        "page": 32,
+        "flip_pages": [
+          16,
+          36,
+          48
+        ],
+        "cover": "cover.pdf, front (right half, without spine/bleed)",
+        "solution_page": 67,
+        "puzzle": 8,
+        "motif": "Toy Plane"
+      },
+      "format": "book_peek2_dots",
+      "hook": "What will these dots become?",
+      "duration_s": 9.0
+    },
+    {
+      "dueAt": "2026-11-14T16:00:00+01:00",
+      "file": "07_2026-11-14_1600_book-peek2_large-print-sudoku-v2.mp4",
+      "caption": "One real puzzle from Large Print Sudoku for Seniors 2026: Volume 2, filling in number by number. Large print, one puzzle per page. Pencil or pen, which do you use? For someone who loves a quiet Sudoku with their coffee.\nFind it on Amazon: search Quiet Sprout Studio.\n\n#sudoku #largeprint #sudokupuzzle #puzzlebook #giftidea",
+      "book": "KDP-045 | Large Print Sudoku for Seniors 2026: Volume 2",
+      "page_source": {
+        "book_id": "KDP-045",
+        "package": "UPLOAD_2026-11-05_KDP-045_v4.zip",
+        "interior_pdf_sha256": "911ff497e6c7b40a75edd5928458f83f7410febdbdf838f92554de46183bbee4",
+        "cover_pdf_sha256": "afb0abcac8d4ac59540a6bfa5a9eba36519bf6c4e8de7c75a3457ca7c294dab7",
+        "page": 60,
+        "flip_pages": [
+          8,
+          40,
+          90
+        ],
+        "cover": "cover.pdf, front (right half, without spine/bleed)",
+        "puzzle": 57,
+        "motif": "Puzzle #57"
+      },
+      "format": "book_peek2_sudoku",
+      "hook": "Solve it before the numbers do",
+      "duration_s": 9.0
+    }
+  ]
+}
