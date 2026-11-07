@@ -1,0 +1,244 @@
+{
+ "welle": "WELLE_1",
+ "created": "2026-11-07",
+ "timezone": "Europe/Berlin (MEZ, +01:00)",
+ "channels": [
+  "tiktok",
+  "instagram"
+ ],
+ "items": [
+  {
+   "dueAt": "2026-11-08T07:30:00+01:00",
+   "file": "01_2026-11-08_0730_connect-dots_toy-car.mp4",
+   "caption": "Guess the picture before the last dot. What did you see first?\nMore in our books, link in bio.\n\n#connectthedots #dottodot #satisfying #oddlysatisfying #puzzle",
+   "format": "connect_dots",
+   "motif": "toy_car",
+   "christmas_book": false,
+   "hook": "Guess the picture before the last dot",
+   "duration_s": 8.7
+  },
+  {
+   "dueAt": "2026-11-08T13:00:00+01:00",
+   "file": "02_2026-11-08_1300_pixel-reveal_cupcake.mp4",
+   "caption": "Guess the picture before it's done. What was your first guess?\nMore in our books, link in bio.\n\n#pixelart #colorbynumber #paintbynumbers #satisfying #oddlysatisfying",
+   "format": "pixel_reveal",
+   "motif": "cupcake",
+   "christmas_book": false,
+   "hook": "Guess the picture before it's done",
+   "duration_s": 9.0
+  },
+  {
+   "dueAt": "2026-11-08T19:00:00+01:00",
+   "file": "03_2026-11-08_1900_connect-dots-color_christmas-tree.mp4",
+   "caption": "Dots, then a line, then color. Did you name it before the color came in?\nMore Christmas dot-to-dots in our new book. Link in bio.\n\n#connectthedots #dottodot #christmasactivities #satisfying #oddlysatisfying",
+   "format": "connect_dots_color",
+   "motif": "christmas_tree",
+   "christmas_book": true,
+   "hook": "Name it before the line closes",
+   "duration_s": 8.9
+  },
+  {
+   "dueAt": "2026-11-09T07:30:00+01:00",
+   "file": "04_2026-11-09_0730_connect-dots_candy-cane.mp4",
+   "caption": "Name it before the line closes. How many dots did you need?\nMore Christmas dot-to-dots in our new book. Link in bio.\n\n#connectthedots #dottodot #christmasactivities #satisfying #oddlysatisfying",
+   "format": "connect_dots",
+   "motif": "candy_cane",
+   "christmas_book": true,
+   "hook": "Name it before the line closes",
+   "duration_s": 8.7
+  },
+  {
+   "dueAt": "2026-11-09T13:00:00+01:00",
+   "file": "05_2026-11-09_1300_pixel-reveal_sailboat.mp4",
+   "caption": "Guess the picture before it's done. What was your first guess?\nMore in our books, link in bio.\n\n#pixelart #colorbynumber #paintbynumbers #satisfying #oddlysatisfying",
+   "format": "pixel_reveal",
+   "motif": "sailboat",
+   "christmas_book": false,
+   "hook": "Guess the picture before it's done",
+   "duration_s": 9.0
+  },
+  {
+   "dueAt": "2026-11-09T19:00:00+01:00",
+   "file": "06_2026-11-09_1900_connect-dots-color_duck.mp4",
+   "caption": "Dots, then a line, then color. What did you see first?\nMore in our books, link in bio.\n\n#connectthedots #dottodot #satisfying #oddlysatisfying #coloring",
+   "format": "connect_dots_color",
+   "motif": "duck",
+   "christmas_book": false,
+   "hook": "Guess the picture before the last dot",
+   "duration_s": 8.9
+  },
+  {
+   "dueAt": "2026-11-10T01:00:00+01:00",
+   "file": "07_2026-11-10_0100_maze-race_dog-sit.mp4",
+   "caption": "A or B – which one makes it out? Decide before it ends.\nMore in our books, link in bio.\n\n#mazes #mazerace #mazepuzzle #puzzle #satisfying",
+   "format": "maze_race",
+   "motif": "dog_sit",
+   "christmas_book": false,
+   "hook": "A or B – which one makes it out? / Decide before it ends.",
+   "duration_s": 8.7,
+   "winner": "B"
+  },
+  {
+   "dueAt": "2026-11-10T07:30:00+01:00",
+   "file": "08_2026-11-10_0730_connect-dots_stocking.mp4",
+   "caption": "Guess the picture before the last dot. What did you see first?\nMore Christmas dot-to-dots in our new book. Link in bio.\n\n#connectthedots #dottodot #christmasactivities #satisfying #oddlysatisfying",
+   "format": "connect_dots",
+   "motif": "stocking",
+   "christmas_book": true,
+   "hook": "Guess the picture before the last dot",
+   "duration_s": 8.7
+  },
+  {
+   "dueAt": "2026-11-10T13:00:00+01:00",
+   "file": "09_2026-11-10_1300_maze-solve_apple.mp4",
+   "caption": "Watch this maze solve itself. Can you beat the line?\nMore in our books, link in bio.\n\n#mazes #mazepuzzle #satisfying #oddlysatisfying #puzzle",
+   "format": "maze_solve",
+   "motif": "apple",
+   "christmas_book": false,
+   "hook": "Watch this maze solve itself / Can you beat the line?",
+   "duration_s": 8.7
+  },
+  {
+   "dueAt": "2026-11-10T19:00:00+01:00",
+   "file": "10_2026-11-10_1900_pixel-reveal_ice-cream.mp4",
+   "caption": "Guess the picture before it's done. What was your first guess?\nMore in our books, link in bio.\n\n#pixelart #colorbynumber #paintbynumbers #satisfying #oddlysatisfying",
+   "format": "pixel_reveal",
+   "motif": "ice_cream",
+   "christmas_book": false,
+   "hook": "Guess the picture before it's done",
+   "duration_s": 9.0
+  },
+  {
+   "dueAt": "2026-11-11T07:30:00+01:00",
+   "file": "11_2026-11-11_0730_maze-race_pear.mp4",
+   "caption": "A or B – which one makes it out? Decide before it ends.\nMore in our books, link in bio.\n\n#mazes #mazerace #mazepuzzle #puzzle #satisfying",
+   "format": "maze_race",
+   "motif": "pear",
+   "christmas_book": false,
+   "hook": "A or B – which one makes it out? / Decide before it ends.",
+   "duration_s": 8.7,
+   "winner": "A"
+  },
+  {
+   "dueAt": "2026-11-11T13:00:00+01:00",
+   "file": "12_2026-11-11_1300_connect-dots-color_elephant.mp4",
+   "caption": "Dots, then a line, then color. Did you name it before the color came in?\nMore in our books, link in bio.\n\n#connectthedots #dottodot #satisfying #oddlysatisfying #coloring",
+   "format": "connect_dots_color",
+   "motif": "elephant",
+   "christmas_book": false,
+   "hook": "Name it before the line closes",
+   "duration_s": 8.9
+  },
+  {
+   "dueAt": "2026-11-11T19:00:00+01:00",
+   "file": "13_2026-11-11_1900_pixel-reveal_potted-tulip.mp4",
+   "caption": "Guess the picture before it's done. What was your first guess?\nMore in our books, link in bio.\n\n#pixelart #colorbynumber #paintbynumbers #satisfying #oddlysatisfying",
+   "format": "pixel_reveal",
+   "motif": "potted_tulip",
+   "christmas_book": false,
+   "hook": "Guess the picture before it's done",
+   "duration_s": 9.0
+  },
+  {
+   "dueAt": "2026-11-12T07:30:00+01:00",
+   "file": "14_2026-11-12_0730_connect-dots_fish.mp4",
+   "caption": "Name it before the line closes. How many dots did you need?\nMore in our books, link in bio.\n\n#connectthedots #dottodot #satisfying #oddlysatisfying #puzzle",
+   "format": "connect_dots",
+   "motif": "fish",
+   "christmas_book": false,
+   "hook": "Name it before the line closes",
+   "duration_s": 8.7
+  },
+  {
+   "dueAt": "2026-11-12T13:00:00+01:00",
+   "file": "15_2026-11-12_1300_maze-solve_strawberry.mp4",
+   "caption": "Watch this maze solve itself. Can you beat the line?\nMore in our books, link in bio.\n\n#mazes #mazepuzzle #satisfying #oddlysatisfying #puzzle",
+   "format": "maze_solve",
+   "motif": "strawberry",
+   "christmas_book": false,
+   "hook": "Watch this maze solve itself / Can you beat the line?",
+   "duration_s": 8.7
+  },
+  {
+   "dueAt": "2026-11-12T19:00:00+01:00",
+   "file": "16_2026-11-12_1900_connect-dots-color_gingerbread-man.mp4",
+   "caption": "Dots, then a line, then color. What did you see first?\nMore Christmas dot-to-dots in our new book. Link in bio.\n\n#connectthedots #dottodot #christmasactivities #satisfying #oddlysatisfying",
+   "format": "connect_dots_color",
+   "motif": "gingerbread_man",
+   "christmas_book": true,
+   "hook": "Guess the picture before the last dot",
+   "duration_s": 8.9
+  },
+  {
+   "dueAt": "2026-11-13T07:30:00+01:00",
+   "file": "17_2026-11-13_0730_connect-dots_santa-hat.mp4",
+   "caption": "Guess the picture before the last dot. What did you see first?\nMore Christmas dot-to-dots in our new book. Link in bio.\n\n#connectthedots #dottodot #christmasactivities #satisfying #oddlysatisfying",
+   "format": "connect_dots",
+   "motif": "santa_hat",
+   "christmas_book": true,
+   "hook": "Guess the picture before the last dot",
+   "duration_s": 8.7
+  },
+  {
+   "dueAt": "2026-11-13T13:00:00+01:00",
+   "file": "18_2026-11-13_1300_maze-solve_birdhouse.mp4",
+   "caption": "Watch this maze solve itself. Can you beat the line?\nMore in our books, link in bio.\n\n#mazes #mazepuzzle #satisfying #oddlysatisfying #puzzle",
+   "format": "maze_solve",
+   "motif": "birdhouse",
+   "christmas_book": false,
+   "hook": "Watch this maze solve itself / Can you beat the line?",
+   "duration_s": 8.7
+  },
+  {
+   "dueAt": "2026-11-13T19:00:00+01:00",
+   "file": "19_2026-11-13_1900_connect-dots-color_music-note.mp4",
+   "caption": "Dots, then a line, then color. Did you name it before the color came in?\nMore in our books, link in bio.\n\n#connectthedots #dottodot #satisfying #oddlysatisfying #coloring",
+   "format": "connect_dots_color",
+   "motif": "music_note",
+   "christmas_book": false,
+   "hook": "Name it before the line closes",
+   "duration_s": 8.9
+  },
+  {
+   "dueAt": "2026-11-14T01:00:00+01:00",
+   "file": "20_2026-11-14_0100_pixel-reveal_hot-air-balloon.mp4",
+   "caption": "Guess the picture before it's done. What was your first guess?\nMore in our books, link in bio.\n\n#pixelart #colorbynumber #paintbynumbers #satisfying #oddlysatisfying",
+   "format": "pixel_reveal",
+   "motif": "hot_air_balloon",
+   "christmas_book": false,
+   "hook": "Guess the picture before it's done",
+   "duration_s": 9.0
+  },
+  {
+   "dueAt": "2026-11-14T07:30:00+01:00",
+   "file": "21_2026-11-14_0730_connect-dots_toy-rocket.mp4",
+   "caption": "Name it before the line closes. How many dots did you need?\nMore in our books, link in bio.\n\n#connectthedots #dottodot #satisfying #oddlysatisfying #puzzle",
+   "format": "connect_dots",
+   "motif": "toy_rocket",
+   "christmas_book": false,
+   "hook": "Name it before the line closes",
+   "duration_s": 8.7
+  },
+  {
+   "dueAt": "2026-11-14T13:00:00+01:00",
+   "file": "22_2026-11-14_1300_maze-race_penguin.mp4",
+   "caption": "A or B – which one makes it out? Decide before it ends.\nMore in our books, link in bio.\n\n#mazes #mazerace #mazepuzzle #puzzle #satisfying",
+   "format": "maze_race",
+   "motif": "penguin",
+   "christmas_book": false,
+   "hook": "A or B – which one makes it out? / Decide before it ends.",
+   "duration_s": 8.7,
+   "winner": "B"
+  },
+  {
+   "dueAt": "2026-11-14T19:00:00+01:00",
+   "file": "23_2026-11-14_1900_connect-dots-color_ornament.mp4",
+   "caption": "Dots, then a line, then color. What did you see first?\nMore Christmas dot-to-dots in our new book. Link in bio.\n\n#connectthedots #dottodot #christmasactivities #satisfying #oddlysatisfying",
+   "format": "connect_dots_color",
+   "motif": "ornament",
+   "christmas_book": true,
+   "hook": "Guess the picture before the last dot",
+   "duration_s": 8.9
+  }
+ ]
+}
